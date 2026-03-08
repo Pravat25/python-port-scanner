@@ -1,12 +1,13 @@
-# python-port-scanner
+# Python Port Scanner
 
-This project is a simple cybersecurity tool written in Python that scans a target system for open ports.
+This project is a simple cybersecurity tool written in Python that scans a target system to detect open ports.
 
 ## Features
 
-- Scan common ports
-- Identify open services
-- Simple command-line interface
+- Scan a range of ports
+- Detect open services
+- Simple command line interface
+- Lightweight Python script
 
 ## Technologies Used
 
@@ -16,4 +17,3 @@ This project is a simple cybersecurity tool written in Python that scans a targe
 ## How to Run
 
 Clone the repository:
-
